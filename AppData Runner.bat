@@ -1,0 +1,1 @@
+explorer C:\Users\%USERNAME%\AppData
